@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**xuid0/xuid0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Welcome budday!
 
 - 🔭 I’m currently working on Mastodon & GitHub related stuff ...
 - 🌱 I’m currently learning lots of stuff none I want to share here ...
@@ -11,4 +6,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mastodon profile is linked in GitHub profile for myself ...
 - 😄 Pronouns: he/him ...
 - ⚡ Fun fact: I've been using alternative operating systems since dial-up days ...
--->
+
