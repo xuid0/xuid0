@@ -1,4 +1,4 @@
-## Welcome budday!
+## Welcome GitHub person viewing budday!
 
 - 🔭 I enjoy using GrapheneOS with MullvadVPN (though I represent neither) ...
 - 🌱 I’m currently learning how to edit Wikipedia and submit photos to Commons Wikimedia https://en.wikipedia.org/wiki/User%3AXuid0
