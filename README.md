@@ -11,7 +11,7 @@
 
 - 📫 How to reach me (Social media) [Mastodon](https://hardened.computer/@xuid0)
 
-- ⚡ Fun fact **I have a Dog called Luna she is an English Staffy ...**
+- ⚡ Fun fact **I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
