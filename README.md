@@ -11,7 +11,7 @@
 
 - 📫 How to reach me (Social media) [Mastodon](https://hardened.computer/@xuid0)
 
-- ⚡ Fun fact **I've been using alternative operating systems since dial-up days, it could also possibly be inferred that I have been performing Free Pentests & other Red Team activities for a while and nowadays only discuss those concepts not personally engage in them I'm considered Blue Team nowadays ...**
+- ⚡ Fun fact **I have a Dog called Luna she is an English Staffy ...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
