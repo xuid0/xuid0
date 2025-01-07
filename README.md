@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to help with [OpenStreetMap](https://www.openstreetmap.org/user/Xuid0)
 
-- 📫 How to reach me (Mastodon acct) **https://hardened.computer/@xuid0**
+- 📫 How to reach me (Social media) [Mastodon](https://hardened.computer/@xuid0)
 
 - ⚡ Fun fact **I've been using alternative operating systems since dial-up days, it could also possibly be inferred that I have been performing Free Pentests & other Red Team activities for a while and nowadays only discuss those concepts not personally engage in them I'm considered Blue Team nowadays ...**
 
