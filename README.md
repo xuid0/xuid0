@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xuid0</h1>
-<h3 align="center">I currently volunter with OsGeo Oceania - I live in Australia.</h3>
+<h3 align="center">I currently volunteer with OsGeo Oceania - I live in Australia.</h3>
 
 - 🔭 I’m helping with a project called: [OsGeo](https://osgeo.org)
 
