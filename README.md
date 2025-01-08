@@ -7,7 +7,7 @@
 
 - 👯 I’m also looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
 
-- 🤝 I’m looking to help with [OpenStreetMap](https://www.openstreetmap.org/user/Xuid0)
+- 🤝 I’m looking to help with [OpenStreetMap](https://www.openstreetmap.org/user/Xuid0%20(Josh%20G))
 
 - 📫 How to reach me via (Social media) [Mastodon](https://hardened.computer/@xuid0)
 
