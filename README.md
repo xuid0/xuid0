@@ -7,14 +7,14 @@
 
 - 👯 I’m also looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
 
-- 🤝 I’m looking to help with [OpenStreetMap](https://www.openstreetmap.org/user/Xuid0%20(Josh%20G))
-
-- 📫 How to reach me via (Social media) [Mastodon](https://hardened.computer/@xuid0)
+- 🤝 I’m looking to help with [OpenStreetMap](https://www.openstreetmap.org/user/Xuid0%20(Josh%20G)))
 
 - ⚡ Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking, perhaps I have a [Conway Game of Life - Glider on my wrist as a ink] (https://commons.wikimedia.org/wiki/Game_of_Life#/media/File:Glider.svg) - Eric S. Raymond has proposed the glider as an emblem to represent the hacker subculture, as the Game of Life appeals to hackers, and the concept of the glider was "born at almost the same time as the Internet and Unix". The emblem is in use in various places within the subculture.
 
 <h3 align="left">Connect with me:</h3>
 [Matrix](https://matrix.to/#/@xuid0:osgeo.org)
+
+[Mastodon](https://hardened.computer/@xuid0)
 <p align="left">
 </p>
 
