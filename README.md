@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xuid0</h1>
 <h3 align="center">I work to protect the minorities, the underdogs & those targetted by oppressive regimes of mass surveillance I'm working to help with services/apps/systems they use to get by on a daily. I live in Australia.</h3>
 
-- 🔭 I’m helping with a project [GrapheneOS](https://grapheneos.org/features)
+- 🔭 I’m helping with a project [OsGeo](https://osgeo.org)
 
 - 🌱 I’m a member of **OsGeo Oceania (since Jan-2025)**
 
