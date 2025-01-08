@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xuid0</h1>
 <h3 align="center">I currently volunteer with OsGeo Oceania - I live in Australia.</h3>
 
-- 🔭 I’m helping with a project called: [OsGeo Oceania](https://osgeo-oceania.org)
+- 🔭 I’m volunteering & contributing with a project called: [OsGeo Oceania](https://osgeo-oceania.org)
 
 - 🌱 I’m a member of **OsGeo Oceania (since Jan-2025)**
 
