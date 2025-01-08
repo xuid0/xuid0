@@ -16,7 +16,7 @@
 <p></p>
 [Mastodon](https://hardened.computer/@xuid0)
 <p>
-[Email](mailto:xuid0@duck.com)
+[Email](xuid0@duck.com)
 <p align="left">
 </p>
 
