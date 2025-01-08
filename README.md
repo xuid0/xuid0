@@ -15,7 +15,7 @@
 [Matrix](https://matrix.to/#/@xuid0:osgeo.org)
 <p></p>
 [Mastodon](https://hardened.computer/@xuid0)
-<p>
+<p></p>
 [Email](xuid0@duck.com)
 <p align="left">
 </p>
