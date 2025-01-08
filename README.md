@@ -3,7 +3,7 @@
 
 - 🔭 I’m volunteering & contributing with a project called: [OsGeo Oceania](https://osgeo-oceania.org)
 
-- 🌱 I’m a member of **OsGeo Oceania (since Jan-2025)**
+- 🌱 I’m contributing images & audio and learning Wikimedia Commons [User:Xuid0 - User page](https://commons.wikimedia.org/wiki/User:Xuid0)
 
 - 👯 I’m also looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
 
