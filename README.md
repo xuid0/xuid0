@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm xuid0</h1>
-<h3 align="center">I work to protect the minorities, the underdogs & those targetted by oppressive regimes of mass surveillance I'm working to help with services/apps/systems they use to get by on a daily. I live in Australia.</h3>
+<h3 align="center">I currently volunter with OsGeo Oceania - I live in Australia.</h3>
 
-- 🔭 I’m helping with a project [OsGeo](https://osgeo.org)
+- 🔭 I’m helping with a project called: [OsGeo](https://osgeo.org)
 
 - 🌱 I’m a member of **OsGeo Oceania (since Jan-2025)**
 
-- 👯 I’m looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
+- 👯 I’m also looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
 
 - 🤝 I’m looking to help with [OpenStreetMap](https://www.openstreetmap.org/user/Xuid0)
 
-- 📫 How to reach me (Social media) [Mastodon](https://hardened.computer/@xuid0)
+- 📫 How to reach me via (Social media) [Mastodon](https://hardened.computer/@xuid0)
 
 - ⚡ Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking, perhaps I have a [Conway Game of Life - Glider on my wrist as a ink] (https://commons.wikimedia.org/wiki/Game_of_Life#/media/File:Glider.svg) - Eric S. Raymond has proposed the glider as an emblem to represent the hacker subculture, as the Game of Life appeals to hackers, and the concept of the glider was "born at almost the same time as the Internet and Unix". The emblem is in use in various places within the subculture.
 
