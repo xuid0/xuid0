@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh Glenn. I use a pen name of xuid0.</h1>
-<h3 align="center">I currently volunteer with OsGeo Oceania - I live in Australia.</h3>
-
-- 🔭 I’m volunteering & contributing with a project called: [OsGeo Oceania](https://osgeo-oceania.org)
+<h3 align="center">I live in Australia.</h3>
 
 - 🌱 I’m contributing images & audio and learning to support the work of Wikimedia Commons [User:Xuid0 - User page](https://commons.wikimedia.org/wiki/User:Xuid0)
 
 - 👯 I’m also looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
-
-- 🤝 I’m looking to contribute with [OpenStreetMap] (https://www.openstreetmap.org/user/Josh%20Glenn%20(xuid0))
 
 - ⚡ Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking, perhaps I have a [Conway Game of Life - Glider on my wrist as a ink] (https://commons.wikimedia.org/wiki/Game_of_Life#/media/File:Glider.svg) - Eric S. Raymond has proposed the glider as an emblem to represent the hacker subculture, as the Game of Life appeals to hackers, and the concept of the glider was "born at almost the same time as the Internet and Unix". The emblem is in use in various places within the subculture.
 
