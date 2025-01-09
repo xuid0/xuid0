@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh Glenn. I use a pen name of xuid0.</h1>
 <h3 align="center">I live in Australia.</h3>
 
-- 🌱 I’m contributing images & audio and learning to support the work of Wikimedia Commons [User:Xuid0 - User page](https://commons.wikimedia.org/wiki/User:Xuid0)
+- 🌱 I’m contributing images & audio and learning to support the work of Wikimedia Commons [User:Xuid0 - User page](https://w.wiki/CfTG)
 
 - 👯 I’m also looking to collaborate on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
 
