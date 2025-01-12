@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Glenn. I use a pen name of xuid0.</h1>
 <h3 align="center">I live in Australia.</h3>
 
-- 🌱 I’m contributing images & audio and learning to support the work of Wikimedia Commons [User:Xuid0 - User page](https://w.wiki/CfTG)
-
-- 👯 I’m also looking to work on [Wikipedia](https://en.wikipedia.org/wiki/User%3AXuid0)
-
 - ⚡ Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking, 
 
 <h3 align="left">Connect with me:</h3>
