@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Glenn. I use a pen name of xuid0.</h1>
 <h3 align="center">I live in Australia.</h3>
-* Linux user since (https://www.operating-system.org/betriebssystem/_english/bs-mandrake.htm) which was around 1998/1999 when I started using Linux for the first time. The install discs came on CD-ROMs and you placed them into your CD-ROM drive and booted the install media that way. To my own records I began using 1998 Dec. - Mandrake Linux 5.2 (leeloo) kernel 2.0.36 from a Linux magazine I purchased from a local newsagency. Naturally I distro-hopped to Redhat Linux from Mandrake Linux and stayed with Slackware Linux for many years after that and nowadays use Debian mostly.
-<br><p\>
-<p></p>
-* Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking. I do wear HA's, pretty unfit and eat bad food (trying to change that via diet), I don't do any illegal drugs or smoke tobacco. I also don't drink alchohol frequently. So I'm not your typical Australian.
+RTFM at my README.md file - https://gitlab.com/xuid0/website/-/blob/2332d5ba910cd9259f268b66608c781d9bd4d6b5/README.md
 </p>
 <h3 align="left">Connect with me:</h3>
 <p></p>
