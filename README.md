@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Glenn. I use a pen name of xuid0.</h1>
 <h3 align="center">I live in Australia.</h3>
-RTFM at my README.md file - https://gitlab.com/xuid0/website/-/blob/2332d5ba910cd9259f268b66608c781d9bd4d6b5/README.md
+Currently signed up to do GitLab.com 2025 Hackathon soon!
 </p>
 <h3 align="left">Connect with me:</h3>
 <p></p>
