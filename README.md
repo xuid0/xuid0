@@ -2,9 +2,9 @@
 <h3 align="center">I live in Australia.</h3>
 * Linux user since (https://www.operating-system.org/betriebssystem/_english/bs-mandrake.htm) which was around 1998/1999 when I started using Linux for the first time. The install discs came on CD-ROMs and you placed them into your CD-ROM drive and booted the install media that way. To my own records I began using 1998 Dec. - Mandrake Linux 5.2 (leeloo) kernel 2.0.36 from a Linux magazine I purchased from a local newsagency. Naturally I distro-hopped to Redhat Linux from Mandrake Linux and stayed with Slackware Linux for many years after that and nowadays use Debian mostly.
 <br><p\>
-
-- ⚡ Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking.
-
+<p></p>
+* Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p></p>
 [Main Website for xuid0](https://norealnames.org)
