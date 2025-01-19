@@ -4,6 +4,9 @@
 - ⚡ Fun fact I have a Dog called Luna she is an English Staffy. She does a lot less barking and more listening which is a lot like myself I prefer to listen more than be the one talking, 
 
 <h3 align="left">Connect with me:</h3>
+<p></p>
+[Main Website for xuid0](https://norealnames.org)
+<p></p>
 [Matrix](https://matrix.to/#/@xuid0:unredacted.org)
 <p></p>
 [Mastodon](https://hardened.computer/@xuid0)
