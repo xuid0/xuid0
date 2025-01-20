@@ -6,6 +6,8 @@ Currently signed up to do GitLab.com 2025 Hackathon soon!
 <p></p>
 [Main Website for xuid0](https://norealnames.org)
 <p></p>
+</p>[Notes from xuid0](https://www.privacyandsecuritynerd.net)
+<p></p>
 [Matrix](https://matrix.to/#/@xuid0:unredacted.org)
 <p></p>
 [Mastodon](https://hardened.computer/@xuid0)
