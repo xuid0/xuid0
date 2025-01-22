@@ -4,13 +4,13 @@ Currently signed up to do GitLab.com 2025 Hackathon soon!
 </p>
 <h3 align="left">Connect with me:</h3>
 <p></p>
-[Main Website for xuid0](https://norealnames.org)
+[Personal website](https://hardened.computer)
 <p></p>
-</p>[Notes from xuid0](https://www.privacyandsecuritynerd.net)
+</p>[Notes](https://www.privacyandsecuritynerd.ne)
 <p></p>
 [Matrix](https://matrix.to/#/@xuid0:unredacted.org)
 <p></p>
-[Mastodon](https://hardened.computer/@xuid0)
+[Mastodon](https://unredacted.social/@xuid0)
 <p></p>
 [Email]xuid0@duck.com
 <p align="left">
