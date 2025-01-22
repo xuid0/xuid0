@@ -6,7 +6,7 @@ Currently signed up to do GitLab.com 2025 Hackathon soon!
 <p></p>
 [Personal website](https://hardened.computer)
 <p></p>
-</p>[Notes](https://www.privacyandsecuritynerd.ne)
+</p>[Notes](https://www.privacyandsecuritynerd.net)
 <p></p>
 [Matrix](https://matrix.to/#/@xuid0:unredacted.org)
 <p></p>
