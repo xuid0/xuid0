@@ -10,6 +10,8 @@ I help with open source projects in my spare time, I enjoy PC gaming and share c
 <p></p>
 [Matrix](https://matrix.to/#/@xuid0:unredacted.org)
 <p></p>
+[Signal](https://signal.me/#eu/WpyprGbME1CKqY1_f6hnbmHPdqr5U2_vWYF6c1K4L0tyG5Xfm3BAq5r81X2l8jfp)
+<p></p>
 [Mastodon](https://unredacted.social/@xuid0)
 <p></p>
 [PC Gaming on Twitch and my spare time hobby](https://www.twitch.tv/xuid0)
