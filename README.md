@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Glenn. I use a pen name of xuid0.</h1>
 <h3 align="center">I live in Australia.</h3>
-Currently signed up to do GitLab.com 2025 Hackathon soon!
+I help with open source projects in my spare time, I enjoy PC gaming and share content on Twitch. I'm also a proud Dad to two boys and Husband to Rebecca.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p></p>
