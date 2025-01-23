@@ -12,6 +12,8 @@ Currently signed up to do GitLab.com 2025 Hackathon soon!
 <p></p>
 [Mastodon](https://unredacted.social/@xuid0)
 <p></p>
+[PC Gaming on Twitch and my spare time hobby](https://www.twitch.tv/xuid0)
+<p></p>
 [Email]xuid0@duck.com
 <p align="left">
 </p>
