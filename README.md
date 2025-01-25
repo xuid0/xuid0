@@ -2,17 +2,6 @@
 <h3 align="center">I live in Australia.</h3>
 I help with open source projects in my spare time, I enjoy PC gaming and share content on Twitch. I'm also a proud Dad to two boys and Husband to Rebecca for 10 awesome years. I'm in Australia!</p>
 <h3 align="left">Connect with me:</h3>
-<p></p>
-</p>[Notes](https://www.privacyandsecuritynerd.net)
-<p></p>
-[Matrix](https://matrix.to/#/@xuid0:unredacted.org)
-<p></p>
-[Signal](https://signal.me/#eu/dv6LGBjijMVXcMT1HpkuI_SuykixZ2OF-z91sFf8LXQAtMBaLsxI54CVN_xPWapK)
-<p></p>
-[Mastodon](https://unredacted.social/@xuid0)
-<p></p>
-[Twitch](https://www.twitch.tv/xuid0/ "Link to twitch.tv/xuid0")
-<p></p>
 [Email]xuid0@duck.com
 <p align="left">
 </p>
