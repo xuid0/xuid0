@@ -11,7 +11,7 @@ I help with open source projects in my spare time, I enjoy PC gaming and share c
 <p></p>
 [Mastodon](https://unredacted.social/@xuid0)
 <p></p>
-[PC Gaming on Twitch and my spare time hobby](https://www.twitch.tv/xuid0)
+[Twitch](https://www.twitch.tv/xuid0/ "Link to twitch.tv/xuid0")
 <p></p>
 [Email]xuid0@duck.com
 <p align="left">
